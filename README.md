@@ -1,4 +1,4 @@
-# Guia rápida para buscar en Google
+# Guia rápida - buscar en Google
 
 ### Busqueda exacta de una palabra
 Pon comillas alrededor de la palabra clave para buscar exactamente esa palabra.
